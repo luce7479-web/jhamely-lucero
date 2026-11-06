@@ -1,0 +1,97 @@
+[
+
+{
+"id":1,
+"nombre": "global tv",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/yuEou9C.png",
+"url": ""
+},
+{
+"id":2,
+"nombre": "ExitosaTV",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/pu0BSB7.png",
+"url": "http://190.93.224.42/EXITOSA/index.m3u8"
+},
+{
+"id":3,
+"nombre": "AmericaTelevision",
+"categoria": "nacional",
+"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+"url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+},
+
+
+{
+"id":4,
+"nombre": "Karibena",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/cgHjg1e.png",
+"url": "http://187.102.210.46/KARIBENA/index.m3u8"
+},
+
+{
+"id":5,
+"nombre": "KoraTV",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/ahBYv4x.png",
+"url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
+},
+
+{
+"id":6,
+"nombre": "Teleselva",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/cu7hTn8.png",
+"url": "https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8"
+},
+
+
+{
+"id":7,
+"nombre": "VisionSur",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/AbZYWEQ.png",
+"url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8"
+},
+
+
+{
+"id":8,
+"nombre": "TelevisionTarapoto",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/Dzen7sh.png",
+"url": "http://45.5.57.58:8000/play/a038/index.m3u8"
+
+},
+
+{
+"id":9,
+"nombre": "GeniosTV",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/iH2Lx6E.png",
+"url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
+},
+
+
+{
+"id":10,
+"nombre": "SiscomTV",
+"categoria": "nacional",
+"imagen": "https://i.imgur.com/0JUlFZ4.png",
+"url": "https://video2.lhdserver.es/siscomtv/live.m3u8"
+}
+
+
+]
+
+
+
+
+
+
+
+
+
+
